@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ahuvi", "ahuvi\ahuvi.csproj", "{CBEB36A0-77E0-4777-B2F6-D3E852176884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBEB36A0-77E0-4777-B2F6-D3E852176884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEB36A0-77E0-4777-B2F6-D3E852176884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEB36A0-77E0-4777-B2F6-D3E852176884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEB36A0-77E0-4777-B2F6-D3E852176884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95DAB7B2-ACED-4871-BC14-D401E5DE6AEA}
+	EndGlobalSection
+EndGlobal
