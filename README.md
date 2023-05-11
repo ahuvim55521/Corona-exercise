@@ -42,11 +42,11 @@ Corona exercise
 
 חיסונים- ImmunizationController
 
-                                                                                                                                              get, post-כולל בדיקות תקינות, delet
+                                                                                                                                              get, post-כולל בדיקות תקינות,delete
 
 מחלה- DiseaseController
                                                                                                                                               
-                                                                                                                                              get, post-כולל בדיקות תקינות, delet
+                                                                                                                                              get, post-כולל בדיקות תקינות,delete
 
 יצרנים- ManufacturerController
 
